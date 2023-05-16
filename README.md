@@ -1,7 +1,13 @@
 ---
-description: We’re so glad you’re here- let’s learn something new together!
+coverY: 0
 ---
 
-# 🎉 Welcome to Pinata Docs
+# 🪅 Introduction to Pinata
 
-![](https://lh4.googleusercontent.com/DpLHDSX6xnLwFYR61IqSudYU7Gu-yHfySpx5PqX7Tt5p-iCGnheKOmpudJ2i5YnE2ScBhivk8MSBo3V9NWD2pb4cxSCHk5rnKaxXn-HweJlarS8YqRA3izoMeo4vOyFBVrzIQrf5eUe6Hpb-LUAuldc)
+### Pinata is a web3 media and development platform, and digital transformation company.
+
+**For developers**, Pinata is the easiest way to pin content to IPFS and build web3 applications without having to build and manage your own IPFS nodes. We do all the heavy lifting for you.
+
+**For creators**, Pinata makes it easy to serve content at scale without any technical experience. We offer anyone the ability to start creating without having to worry about the technical side of web3 or IPFS right away.
+
+**For web2 enterprises,** Pinata provides you the tools you need to transform your business towards the new iteration of the web. Upload to Pinata, share with the world.

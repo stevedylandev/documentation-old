@@ -6,7 +6,7 @@ description: /users/generateApiKey
 
 This endpoint is used to programmatically generate Pinata API keys. This endpoint can only be called by using an "Admin" key. When generating new keys, specific scopes and limits can be implemented.&#x20;
 
-This endpoint will return three values: The API Key, the API Secret, and a JWT Bearer Token. For more information on these values, [see the authentication section](../authentication.md).
+This endpoint will return three values: The API Key, the API Secret, and a JWT Bearer Token. For more information on these values, [see the authentication section](../introduction-to-the-pinata-api/authentication.md).
 
 **Make sure to record the API Secret and the JWT as they will not be accessible again.**
 
