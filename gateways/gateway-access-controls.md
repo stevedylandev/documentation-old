@@ -12,11 +12,11 @@ Adding an access token restriction means that content served through your gatewa
 
 To create an access token, click on the button that says "Request Token."
 
-![](<../../../../.gitbook/assets/Screenshot - Brave Browser - 09-28-2022@2x (4).png>)
+![](<../.gitbook/assets/Screenshot - Brave Browser - 09-28-2022@2x (4).png>)
 
 When you create an access token you will have the ability to preview the token by clicking the "eye" icon, or copy the token to your clipboard with the "copy" icon. At any point you can delete an access token by clicking the three small dots on the right.
 
-![](<../../../../.gitbook/assets/Screenshot - Brave Browser - 09-28-2022@2x (6).png>)
+![](<../.gitbook/assets/Screenshot - Brave Browser - 09-28-2022@2x (6).png>)
 
 Once you have the token, there are two ways you can use it in the gateway request.&#x20;
 
@@ -44,21 +44,21 @@ You can also restrict your gateway by IP Address. You can add up to 100 differen
 
 To start click "Set IP Address" on the right side of the menu.&#x20;
 
-![](<../../../../.gitbook/assets/Screenshot - Brave Browser - 09-28-2022@2x (1).png>)
+![](<../.gitbook/assets/Screenshot - Brave Browser - 09-28-2022@2x (1).png>)
 
 You will get window asking for a valid IP Address that will allow any requests being made from the IP Address to go through!
 
-![](<../../../../.gitbook/assets/Screenshot - Brave Browser - 09-28-2022@2x (3).png>)
+![](<../.gitbook/assets/Screenshot - Brave Browser - 09-28-2022@2x (3).png>)
 
 ### Host Origin&#x20;
 
 With the Host Origin restriction you can make sure your gateway can only be used on a specific Domain like app.pinata.cloud. To get started, click on "Add Host Origin."
 
-![](<../../../../.gitbook/assets/Screenshot - Brave Browser - 09-28-2022@2x.png>)
+![](<../.gitbook/assets/Screenshot - Brave Browser - 09-28-2022@2x.png>)
 
 After that you can add the domain you would like your gateway to be used from!&#x20;
 
-![](<../../../../.gitbook/assets/Screenshot - Brave Browser - 09-28-2022@2x (5).png>)
+![](<../.gitbook/assets/Screenshot - Brave Browser - 09-28-2022@2x (5).png>)
 
 Keep in mind that if you are rendering content on the client side using host origins, you will need to include a crossorigin tag in your `img`, `video`, `audio`, `link`, or `script` elements. Here is an example with an img element in React:
 

@@ -2,7 +2,7 @@
 description: /content
 ---
 
-# Submarine File or Folder
+# Privatize File or Folder
 
 This endpoint will accept a single file or a single directory. The request must include a read stream for the payload in order for the API to accept it.&#x20;
 

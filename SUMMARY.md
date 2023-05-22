@@ -5,17 +5,17 @@
 * [🪅 Introduction to Pinata](README.md)
   * [Why Pinata?](start-here/introduction-to-pinata/why-pinata.md)
 * [🤔 What can I learn here?](start-here/what-can-i-learn-here.md)
-* [🚀 Getting Started](start-here/master.md)
+* [🚀 Getting Started](master.md)
 * [🪄 Features](start-here/features/README.md)
   * [🚪 Gateways](start-here/features/gateways/README.md)
     * [The Public Pinata Gateway](start-here/features/gateways/the-public-pinata-gateway.md)
     * [Dedicated Gateways](start-here/features/gateways/dedicated-gateways/README.md)
       * [Open vs. Restricted](start-here/features/gateways/dedicated-gateways/open-vs.-restricted.md)
-      * [Gateway Access Controls](start-here/features/gateways/dedicated-gateways/gateway-access-controls.md)
+      * [Gateway Access Controls](gateways/gateway-access-controls.md)
       * [How Do I Use My Gateway?](start-here/features/gateways/dedicated-gateways/how-do-i-use-my-gateway.md)
-  * [🛑 Limits](start-here/features/rate-limits.md)
-  * [📽 Video Streaming](start-here/features/video-streaming.md)
-  * [🪄 Image Optimization](start-here/features/image-optimization.md)
+  * [🛑 Limits](rate-limits.md)
+  * [📽 Video Streaming](gateways/video-streaming.md)
+  * [🪄 Image Optimization](gateways/image-optimization.md)
 
 ## 🧠 basic knowledge
 
@@ -31,7 +31,7 @@
 ## 🪅 PINATA API
 
 * [Introduction to the Pinata API](pinata-api/introduction-to-the-pinata-api/README.md)
-  * [Authentication](pinata-api/introduction-to-the-pinata-api/authentication.md)
+  * [Authentication](pinata-api/authentication.md)
 * [Users](pinata-api/users/README.md)
   * [Generate Pinata API Key](pinata-api/users/generate-pinata-api-key.md)
   * [List Pinata API Keys](pinata-api/users/list-pinata-api-keys.md)
@@ -52,17 +52,17 @@
 
 * [Introduction to Private Files](private-files/introduction-to-private-files/README.md)
   * [Authentication](private-files/introduction-to-private-files/authentication.md)
-* [Content](private-files/content/README.md)
-  * [Privatize File or Folder](private-files/content/privatize-file-or-folder.md)
-  * [Privatize a JSON](private-files/content/privatize-a-json.md)
-  * [Query Submarined Content](private-files/content/query-submarined-content.md)
-  * [Get Info About Submarined File](private-files/content/get-info-about-submarined-file.md)
-  * [List Content In Submarined Folder](private-files/content/list-content-in-submarined-folder.md)
-  * [Update File Metadata](private-files/content/update-file-metadata.md)
-  * [Update File Info/Unsubmarine](private-files/content/update-file-info-unsubmarine.md)
-  * [Delete Submarine File](private-files/content/delete-submarine-file.md)
-* [Auth](private-files/auth/README.md)
-  * [Generate Access Token](private-files/auth/generate-access-token.md)
+* [Content](submarine-api/content/README.md)
+  * [Privatize File or Folder](submarine-api/content/submarine-file-or-folder.md)
+  * [Privatize a JSON](submarine-api/content/submarine-json.md)
+  * [Query Submarined Content](submarine-api/content/query-submarined-content.md)
+  * [Get Info About Submarined File](submarine-api/content/get-info-about-submarined-file.md)
+  * [List Content In Submarined Folder](submarine-api/content/list-content-in-submarined-folder.md)
+  * [Update File Metadata](submarine-api/content/update-file-metadata.md)
+  * [Update File Info/Unsubmarine](submarine-api/content/update-file-info-unsubmarine.md)
+  * [Delete Submarine File](submarine-api/content/delete-submarine-file.md)
+* [Auth](submarine-api/auth/README.md)
+  * [Generate Access Token](submarine-api/auth/generate-access-token.md)
 
 ## 🧑🏫 Tutorials
 
@@ -78,5 +78,5 @@
 ## 📚 resources
 
 * [🖊 Glossary](resources/glossary.md)
-* [🧰 SDKs](resources/sdks.md)
-* [❓ FAQ](resources/faq.md)
+* [🧰 SDKs](sdks.md)
+* [❓ FAQ](faq.md)

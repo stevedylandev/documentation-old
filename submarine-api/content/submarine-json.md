@@ -2,7 +2,7 @@
 description: /content/json
 ---
 
-# Submarine JSON
+# Privatize a JSON
 
 This endpoint allows you to add and Submarine any JSON object you wish. This endpoint is specifically optimized to only handle JSON content. Once the server receives the JSON, it is converted into a JSON file and Submarined.&#x20;
 

@@ -18,7 +18,7 @@ Our customers don't have to worry about maintaining and monitoring their own IPF
 
 In addition to keeping your content online, we also provide a variety of easy tools to give you better insight into the content you're pinning on IPFS.
 
-_Refer to_ [_'Why Pinata'_](../start-here/introduction-to-pinata/why-pinata.md) _to find out what sets up apart from the rest_ :raised\_hands:_._
+_Refer to_ [_'Why Pinata'_](start-here/introduction-to-pinata/why-pinata.md) _to find out what sets up apart from the rest_ :raised\_hands:_._
 
 </details>
 
@@ -36,7 +36,7 @@ Check out our pricing page [here](https://pinata.cloud/pricing).
 
 <summary>What does it mean to "pin" a file to IPFS?</summary>
 
-Refer to [ipfs-pinning.md](../basic-knowledge/what-is-ipfs/ipfs-pinning.md "mention") to learn what pinning in the context of IPFS means.
+Refer to [ipfs-pinning.md](basic-knowledge/what-is-ipfs/ipfs-pinning.md "mention") to learn what pinning in the context of IPFS means.
 
 </details>
 
